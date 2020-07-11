@@ -13,7 +13,7 @@ These are my keyboard shortcuts
 
 If you want to copy text:
 
-```powershell
+```
 crtl + c
 ```
 
