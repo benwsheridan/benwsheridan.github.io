@@ -22,7 +22,7 @@ ctrl + c
 ctrl + v
 ```
 
-## Making new window
+## Making a new window
 ```
 ctrl + n
 ```
@@ -34,3 +34,9 @@ ctrl + t
 ```
 ctrl + shift + n
 ```
+       
+       
+                                    *****         *****
+
+                                          ********
+              
