@@ -6,17 +6,32 @@ A page used for my PiXL learning
 
 These are my keyboard shortcuts
 
-* bullet point 1
-* bullet point 2
-
-### Copying Text in a Document
+## How to print
+```
+ctrl + p
+```
+## Copying Text in a Document
 
 If you want to copy text:
 
 ```
-crtl + c
+ctrl + c
+```
+## Pasting text
+```
+ctrl + v
 ```
 
-## Reference How Tos
+## Making new window
+```
+ctrl + n
+```
+## Making a new tab
+```
+ctrl + t
+```
+## New folder
+```
+ctrl + shift + n
+```
 
-Links on using GithubPages (specifically Jekyll) can be found [here](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll)
