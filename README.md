@@ -1,7 +1,7 @@
-# benwsheridan.github.io
+# PiXL Learning: Technical help page
 
-Jekyll Github Hosted Website
+A page used for my PiXL learning
 
-## Updating
+## Reference How Tos
 
-https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll
+Links on using GithubPages (specifically Jekyll) can be found [here](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll)
