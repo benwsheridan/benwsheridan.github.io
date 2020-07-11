@@ -34,4 +34,3 @@ ctrl + t
 ```
 ctrl + shift + n
 ```
-
